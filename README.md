@@ -20,3 +20,8 @@ For the first challenge, I had to refactor code to make sure that it follows acc
 The following image shows the web application's appearance and functionality:
 
 ![ The mockup of the horiseon webpage](./assets/images/finalmockupimage.png)
+
+### **Link of deployed application:**
+
+https://thivsiv28.github.io/module1challengehoriseon/
+
