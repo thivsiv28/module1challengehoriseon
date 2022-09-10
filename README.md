@@ -4,16 +4,16 @@
 ### **Description:**
 
 
-For the first challenge, I had to refactor code to make sure that it follows accessibility standards and follows a semantic structure as well.
+For the first challenge, my task was to refactor code to make sure that it follows accessibility standards and follows a semantic structure as well.
 
 
 **I did the following by:**
 - Putting the selectors in order of importance (eg. univeral, element , class)
 - Ordering all the selectors in alphabetical order
-- Using alt attributes and key image words
+- Using alt attributes and key image word descriptions for all images
 - Consolidating lines of repetitive code and eliminated unnessary selectors
--Adding comments with what was revised
--Changing the div tag and used semantic structure and elements throughout the code
+- Adding comments with what was revised
+- Replacing the div tag and using semantic structure and elements throughout the code
 
 ### **Mockup**
 
